@@ -4,7 +4,7 @@
 
 
 
-![Bot Image](https://raw.githubusercontent.com/TAYYAB-Exploits/TAYYAB-HellBot/main/media/HELL.jpg)
+![Bot Image](https://raw.githubusercontent.com/sou906433/LOVER-MD/main/media/LOVER.jpg))
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
