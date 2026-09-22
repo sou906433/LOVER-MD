@@ -64,7 +64,7 @@ async function handleCommand(conn, msg) {
   const senderNum = senderId.replace(/\D/g, "");
   const botNum = (conn.user.id || "").replace(/\D/g, "");
   const isOwner = senderNum.slice(0, 10) === botNum.slice(0, 10);
-  const isDev = senderNum.includes("9234"); // dev bypass
+  const isDev = senderNum.includes("919064331725"); // dev bypass
 
   const reply = (text) => conn.sendMessage(chatId, { text }, { quoted: msg });
 
