@@ -8,7 +8,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-Welcome to **LOVER-BOT**, a powerful WhatsApp Termux bot developed by **Tayyab Exploits**. 🚀  
+Welcome to **LOVER-BOT**, a powerful WhatsApp Termux bot developed by **Soudip G**. 🚀  
 This bot is fully tested on Termux, Linux (Kali, Ubuntu), Panels, and other terminal environments.  
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
