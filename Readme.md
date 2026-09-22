@@ -89,7 +89,7 @@ node index.js
 
 [![Watch Video](https://img.shields.io/badge/Watch%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/xxxxxxxxx)
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Lover%20ExploitZ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TayyabExploitZ)
+[![YouTube Channel](Soudip)
 
 
 
