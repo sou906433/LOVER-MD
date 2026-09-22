@@ -34,9 +34,9 @@ Whether you want **auto typing, media download, group management**, or just **fu
 
 ## 📹 Video Tutorials
 
-[![Watch Video](https:be/4EK99IE4lTE)
+[![Watch Video](SoudipG)
 
-[![YouTube Channel](https://imggo=youtube)](https://www.youtube.com/@TayyabExploitZ)
+[![YouTube Channel](SoudipG)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
