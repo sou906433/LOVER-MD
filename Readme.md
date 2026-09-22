@@ -62,8 +62,8 @@ pkg install imagemagick -y
 
 Step 2: Clone Repo & Setup
 ```bash
-
-
+git clone https://github.com/sou906433/LOVER-MD
+cd LOVER-MD
 termux-setup-storage
 ```
 Step 3: Install Node Modules
