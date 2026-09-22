@@ -34,9 +34,9 @@ Whether you want **auto typing, media download, group management**, or just **fu
 
 ## 📹 Video Tutorials
 
-[![Watch Video](https://img.shields.io/badge/Watch%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/4EK99IE4lTE)
+[![Watch Video](https:be/4EK99IE4lTE)
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Tayyab%20ExploitZ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TayyabExploitZ)
+[![YouTube Channel](https://imggo=youtube)](https://www.youtube.com/@TayyabExploitZ)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
