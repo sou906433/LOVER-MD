@@ -80,7 +80,7 @@ npm start
 ```
 ✅ Bonus: Auto reload
 ```bash
-node index.js
+node --watch index.js
 ```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
